@@ -2,10 +2,15 @@
 
 I am a frontend software developer living in Sweden
 
-🔭 Working full time developing data analysis web applications for the train and buses industry<br>
+🚂 Working full time developing web applications used for data analysis, monitoring and configuration within the train and bus industry<br>
 🌱 Loves to learn new technologies<br>
-✅ Prefers TDD
+✅ Values TDD<br>
+👨‍🎓 Bachelor's degree in systems science<br>
+👨‍💼 Entrepreneurial background - Built web sites to small business owners<br>
+🏗 Have contributed to software that was used within the building and construction industry<br>
+🚗 Have contributed to software that was used within the autonomous vehicles industry<br>
 
+I have not had much activity in Github in the past. Will perhaps change in the future!
 
 ## Connect with me
 
