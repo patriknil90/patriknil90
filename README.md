@@ -1,16 +1,13 @@
 # Hello World 👋
 
-I am a frontend software developer living in Sweden
+I am an experienced frontend developer who has built B2B applications for the web professionally since 2016. Heavily focused on React and TypeScript/JavaScript.  
 
 🚂 Working full time developing web applications used for data analysis, monitoring and configuration within the train and bus industry<br>
-🌱 Loves to learn new technologies<br>
-✅ Values TDD<br>
 👨‍🎓 Bachelor's degree in systems science<br>
 👨‍💼 Entrepreneurial background - Built web sites to small business owners<br>
-🏗 Have contributed to software that was used within the building and construction industry<br>
-🚗 Have contributed to software that was used within the autonomous vehicles industry<br>
-
-I have not had much activity in Github in the past. Will perhaps change in the future!
+🏗 Previously worked as a frontend developer on a Project and Time management SaaS product that was used within the building and construction industry<br>
+🚗 Previously worked as a frontend developer on a Search Engine solution that was used within the autonomous vehicles industry<br>
+🌱 Loves to learn new technologies<br>
 
 ## Connect with me
 
