@@ -1,13 +1,12 @@
 # Hello World 👋
 
-I am an experienced frontend developer who has built B2B applications for the web professionally since 2016. Heavily focused on React and TypeScript/JavaScript.  
+I am a frontend developer that in my career primarily have built B2B web applications with React and TypeScript/JavaScript.  
 
-🚂 Working full time developing web applications used for data analysis, monitoring and configuration within the train and bus industry<br>
-👨‍🎓 Bachelor's degree in systems science<br>
-👨‍💼 Entrepreneurial background - Built web sites to small business owners<br>
-🏗 Previously worked as a frontend developer on a Project and Time management SaaS product that was used within the building and construction industry<br>
-🚗 Previously worked as a frontend developer on a Search Engine solution that was used within the autonomous vehicles industry<br>
-🌱 Loves to learn new technologies<br>
+🚂 Currently developing an <a href="https://www.red-dot.org/project/icomera-discovery-tool-55284">award-winning web application</a> used for data analysis, monitoring, reporting and configuration within the train and bus industry<br>.
+👨‍🎓 Bachelor's degree in systems science<br>.
+👨‍💼 Entrepreneurial background - Developed web sites to small business owners<br>.
+🚗 Previously worked as a frontend developer on a Search Engine solution that was used within the autonomous vehicles industry<br>.
+🏗 Previously worked as a frontend developer on a Project and Time management SaaS product that was used within the building and construction industry<br>.
 
 ## Connect with me
 
@@ -16,9 +15,11 @@ I am an experienced frontend developer who has built B2B applications for the we
 <br>
 <br>
 
-## Expertise
+## Experienced in
 
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
@@ -32,9 +33,3 @@ I am an experienced frontend developer who has built B2B applications for the we
 
 <br>
 <br>
-
-## Some experience in
-
-<img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<img align="left" alt="styled components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
