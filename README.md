@@ -2,11 +2,11 @@
 
 I am a frontend developer that in my career primarily have built B2B web applications with React and TypeScript/JavaScript.  
 
-🚂 Currently developing an <a href="https://www.red-dot.org/project/icomera-discovery-tool-55284">award-winning web application</a> used for data analysis, monitoring, reporting and configuration within the train and bus industry<br>.
-👨‍🎓 Bachelor's degree in systems science<br>.
-👨‍💼 Entrepreneurial background - Developed web sites to small business owners<br>.
-🚗 Previously worked as a frontend developer on a Search Engine solution that was used within the autonomous vehicles industry<br>.
-🏗 Previously worked as a frontend developer on a Project and Time management SaaS product that was used within the building and construction industry<br>.
+🚂 Currently developing an <a href="https://www.red-dot.org/project/icomera-discovery-tool-55284">award-winning web application</a> used for data analysis, monitoring, reporting and configuration within the train and bus industry.<br>
+👨‍🎓 Bachelor's degree in systems science.<br>
+👨‍💼 Entrepreneurial background - Developed web sites to small business owners.<br>
+🚗 Previously worked as a frontend developer on a Search Engine solution that was used within the autonomous vehicles industry.<br>
+🏗 Previously worked as a frontend developer on a Project and Time management SaaS product that was used within the building and construction industry.<br>
 
 ## Connect with me
 
